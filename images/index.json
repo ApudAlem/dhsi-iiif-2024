@@ -3,12 +3,571 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://dnoneill.github.io/dhsi-iiif-2024/index.json",
+  "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json",
   "type": "Manifest",
-  "items": [],
+  "items": [
+    {
+      "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://apudalem.github.io/dhsi-iiif-2024/Book4700-010.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Incunabula Manifest"
+                  ]
+                },
+                "width": 2559,
+                "height": 3902,
+                "service": [
+                  {
+                    "@id": "https://apudalem.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Incunabula Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "0"
+            ]
+          },
+          "value": {
+            "@none": [
+              "M"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "2"
+            ]
+          },
+          "value": {
+            "@none": [
+              "D"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "3"
+            ]
+          },
+          "value": {
+            "@none": [
+              "S"
+            ]
+          }
+        }
+      ],
+      "width": 2559,
+      "height": 3902,
+      "thumbnail": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://apudalem.github.io/dhsi-iiif-2024/Book4700-030.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Incunabula Manifest"
+                  ]
+                },
+                "width": 2493,
+                "height": 3863,
+                "service": [
+                  {
+                    "@id": "https://apudalem.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Incunabula Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "0"
+            ]
+          },
+          "value": {
+            "@none": [
+              "M"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "2"
+            ]
+          },
+          "value": {
+            "@none": [
+              "D"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "3"
+            ]
+          },
+          "value": {
+            "@none": [
+              "S"
+            ]
+          }
+        }
+      ],
+      "width": 2493,
+      "height": 3863,
+      "thumbnail": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://apudalem.github.io/dhsi-iiif-2024/Book4700-197.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Incunabula Manifest"
+                  ]
+                },
+                "width": 2334,
+                "height": 3666,
+                "service": [
+                  {
+                    "@id": "https://apudalem.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Incunabula Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "0"
+            ]
+          },
+          "value": {
+            "@none": [
+              "M"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "2"
+            ]
+          },
+          "value": {
+            "@none": [
+              "D"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "3"
+            ]
+          },
+          "value": {
+            "@none": [
+              "S"
+            ]
+          }
+        }
+      ],
+      "width": 2334,
+      "height": 3666,
+      "thumbnail": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://apudalem.github.io/dhsi-iiif-2024/Book4700-198.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Incunabula Manifest"
+                  ]
+                },
+                "width": 2334,
+                "height": 3666,
+                "service": [
+                  {
+                    "@id": "https://apudalem.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Incunabula Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "0"
+            ]
+          },
+          "value": {
+            "@none": [
+              "M"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "2"
+            ]
+          },
+          "value": {
+            "@none": [
+              "D"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "3"
+            ]
+          },
+          "value": {
+            "@none": [
+              "S"
+            ]
+          }
+        }
+      ],
+      "width": 2334,
+      "height": 3666,
+      "thumbnail": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://apudalem.github.io/dhsi-iiif-2024/Image1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "Incunabula Manifest"
+                  ]
+                },
+                "width": 2493,
+                "height": 3863,
+                "service": [
+                  {
+                    "@id": "https://apudalem.github.io/dhsi-iiif-2024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://apudalem.github.io/dhsi-iiif-2024/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Incunabula Manifest"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "0"
+            ]
+          },
+          "value": {
+            "@none": [
+              "M"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "1"
+            ]
+          },
+          "value": {
+            "@none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "2"
+            ]
+          },
+          "value": {
+            "@none": [
+              "D"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "3"
+            ]
+          },
+          "value": {
+            "@none": [
+              "S"
+            ]
+          }
+        }
+      ],
+      "width": 2493,
+      "height": 3863,
+      "thumbnail": [
+        {
+          "id": "https://apudalem.github.io/dhsi-iiif-2024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
   "label": {
     "@none": [
-      "images"
+      "Incunabula Manifest"
     ]
-  }
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "0"
+        ]
+      },
+      "value": {
+        "@none": [
+          "M"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "1"
+        ]
+      },
+      "value": {
+        "@none": [
+          "O"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "2"
+        ]
+      },
+      "value": {
+        "@none": [
+          "D"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "3"
+        ]
+      },
+      "value": {
+        "@none": [
+          "S"
+        ]
+      }
+    }
+  ],
+  "attribution": "Aldus Manutius",
+  "description": "Letters of St. Catherine",
+  "thumbnail": [
+    {
+      "id": "https://apudalem.github.io/dhsi-iiif-2024/thumb.jpg",
+      "type": "Image"
+    }
+  ]
 }
