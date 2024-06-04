@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "//Book4700-010",
+  "height": 3902,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 488,
+      "width": 320
+    },
+    {
+      "height": 244,
+      "width": 160
+    },
+    {
+      "height": 122,
+      "width": 80
+    },
+    {
+      "height": 61,
+      "width": 40
+    },
+    {
+      "height": 30,
+      "width": 20
+    },
+    {
+      "height": 15,
+      "width": 10
+    },
+    {
+      "height": 8,
+      "width": 5
+    },
+    {
+      "height": 4,
+      "width": 2
+    },
+    {
+      "height": 2,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 512
+    }
+  ],
+  "width": 2559
+}
